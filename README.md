@@ -22,7 +22,7 @@
 2. **Set Up the Project**
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/goal-tracker-bot.git
+   git clone https://github.com/somyadevhere/Goal-Tracker-Bot
    cd goal-tracker-bot
 
    # Create a virtual environment
